@@ -1,6 +1,3 @@
-Voici la version mise au propre de la description du projet "Jeu du Pendu" avec une architecture structurée :
-
----
 
 ### **Projet : Jeu du Pendu**
 
