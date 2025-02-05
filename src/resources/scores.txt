@@ -1,0 +1,10 @@
+p : 5
+null : 5
+bb : 5
+malot : 5
+malthus : 0
+malthus : 0
+Cassandra : 0
+Evariste : 0
+ : 0
+Thus : 0
