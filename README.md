@@ -34,8 +34,7 @@ PenduGame/
 │   │   │   │   ├── pendu-6.png
 │   │   │   │   ├── victory.png
 │   │   │   │   └── defeat.png
-│   │   └── web/
-│   │       └── (autres ressources si besoin)
+│   │   
 ├── README.md                                // Description du projet
 └── .gitignore                               // Fichiers à ignorer par Git
 ```
